@@ -1,4 +1,4 @@
-#TensorFlow GloVe Deluxe
+# TensorFlow GloVe Deluxe
 
 Now with more caching and improved performance!
 
