@@ -1,5 +1,6 @@
 import tf_glove
 
+with open('allwords.txt') as f:
     corpus = f.read()
 
 model = tf_glove.GloVeModel(embedding_size=120, context_size=3)
